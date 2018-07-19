@@ -1,0 +1,13 @@
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+  }
+.head{
+    margin-top: 20px;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+.text{
+    margin-left: 200px;
+}
